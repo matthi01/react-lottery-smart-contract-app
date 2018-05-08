@@ -2,6 +2,8 @@
 
 <p><b>Note: </b>This application assumes that metamask browser extension is installed!</p>
 
+<p>So far the main point of this application is to make use of the ethereum contract... not too worried about styling at this point. It also does not have any error handling yet.</p>
+
 <p><b>Contract Deployed (Rinkeby Network) - Address: 0x7cB67db9E05241b8Db580F12b017eF8a86afAfEE</b></p>
 
 <p>This application will make use of the Lottery Smart Contract (also in github repository).</p>
